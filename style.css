@@ -50,7 +50,7 @@ button:active {
 			   -5px -5px 17px #ffffff;
 	border: none;
 	border-radius: 10px;
-	transition: all .5s;
+	transition: all .4s ease-in-out;
 	width: 70%;
   }
   
