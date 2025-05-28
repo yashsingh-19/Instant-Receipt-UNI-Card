@@ -1,5 +1,5 @@
 function sendwhat(){
-    const customerName = document.getElementById("custname").value;
+    let customerName = document.getElementById("custname").value;
     let contact = document.getElementById("contactno").value;
     let descp = document.getElementById("dentry1").value;
     let qty = document.getElementById("qty").value;
