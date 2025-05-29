@@ -18,7 +18,7 @@ button {
 	background: #e8e8e8;
 	border: 1px solid #e8e8e8;
 	transition: all .1s;
-	box-shadow: 7px 7px 14px #bebebe,
+	box-shadow: 6px 6px 12px #c5c5c5,
 		-6px -6px 12px #ffffff;
 	/* font-family: 'Syne', sans-serif; */
 	font-family: 'Courier New', Courier, monospace;
